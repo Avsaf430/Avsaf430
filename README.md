@@ -26,15 +26,6 @@
 
 ---
 
-### 🤖 **Beginner in Machine Learning **
-- Introduction to Machine Learning Concepts  
-- Supervised Learning (Linear Regression, Logistic Regression)  
-- Unsupervised Learning (K-Means Clustering, PCA)  
-- Data Preprocessing and Cleaning  
-- Basic Model Evaluation Metrics (Accuracy, Precision, Recall)  
-- Data Visualization Techniques  
-
----
 
 ### 🚀 **Project**
 - 📈 **Stock Market Trend Analysis**  
