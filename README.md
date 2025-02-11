@@ -27,14 +27,6 @@
 ---
 
 
-### 🚀 **Project**
-- 📈 **Stock Market Trend Analysis**  
-   - Developed a model to analyze and predict stock market trends using Python and machine learning libraries.  
-   - Visualized data insights using interactive dashboards.  
-   - Integrated APIs for real-time stock data updates.  
-
----
-
 ### 📫 **Connect with Me**
 - **LinkedIn:** (https://www.linkedin.com/in/avsafsayyad02)  
 - **Email:** (mailto:avsafsayyad55@gmail.com)  
